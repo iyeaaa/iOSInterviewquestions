@@ -96,7 +96,7 @@ CS 면접 질문은 지원자가 공부해야하는 내용을 충분히 잘 알�
 - Closure와 함수와의 관계에 대해 설명하시오.
 - Optional Chaining과 nil-coalescing operator(??)의 차이점과 사용 시 주의사항은 무엇인가요?
 - Swift에서 Async/Await 기능이 도입되기 전에, 비동기(Asynchronous) 작업을 처리하는 방법에는 어떤 것들이 있나요?
-- 타입 변환(Type Casting)과 다형성(Polymorphism)에 대해 설명해보세요.
+- <a href="https://blog.naver.com/iyeaaa/223140688736">타입 변환(Type Casting)과 다형성(Polymorphism)에 대해 설명해보세요.</a>
 - Swift에서 타입 안전성(type safety)은 어떤 방식으로 보장되나요?
 
 ## ARC
