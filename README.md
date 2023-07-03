@@ -78,7 +78,7 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 
 ## Swift
 - <a href="Swift/StructClassEnum.md"> struct와 class와 enum의 차이를 설명하시오. </a>
-- class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.
+- <a href="https://velog.io/@wnsxor1993/Class%EC%9D%98-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81-%EB%B0%A9%EB%B2%95">class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.</a>
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
 - Convenience init에 대해 설명하시오.
 - AnyObject에 대해 설명하시오.
