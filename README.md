@@ -77,7 +77,7 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 - 성능 향상을 위해 어떤 디버깅 도구를 사용할 수 있나요? 각각의 디버깅 도구는 어떤 상황에서 사용하는 것이 좋나요?
 
 ## Swift
-- struct와 class와 enum의 차이를 설명하시오.
+- <a href="Swift/StructClassEnum.md"> struct와 class와 enum의 차이를 설명하시오. </a>
 - class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
 - Convenience init에 대해 설명하시오.
