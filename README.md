@@ -61,14 +61,14 @@
 - <a href="https://velog.io/@wnsxor1993/Class%EC%9D%98-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81-%EB%B0%A9%EB%B2%95">class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.</a>
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
 - Convenience init에 대해 설명하시오.
-- AnyObject에 대해 설명하시오.
-- Optional 이란 무엇인지 설명하시오.
+- <a href="Swift/AnyObject.md">AnyObject에 대해 설명하시오.</a>
+- <a href="Swift/Optional.md">Optional 이란 무엇인지 설명하시오.</a>
 - Struct 가 무엇이고 어떻게 사용하는지 설명하시오.
 - Subscripts에 대해 설명하시오.
 - String은 왜 subscript로 접근이 안되는지 설명하시오.
 - instance 메서드와 class 메서드의 차이점을 설명하시오.
 - class 메서드와 static 메서드의 차이점을 설명하시오.
-- Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.
+- <a href="Swift/DelegatePattern.md">Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.</a>
 - Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.
 - KVO 동작 방식에 대해 설명하시오.
 - Delegates와 Notification 방식의 차이점에 대해 설명하시오.
